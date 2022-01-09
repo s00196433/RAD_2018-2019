@@ -8,7 +8,7 @@ using ClassLibrary1.BankModels;
 
 namespace ClassLibrary1
 {
-    class BankContext : DbContext
+   public class BankContext : DbContext
     {
         public DbSet<AccountType> AccountTypes { get; set; }
         public DbSet<Account> Accounts { get; set; }

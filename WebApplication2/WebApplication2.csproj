@@ -178,6 +178,10 @@
     <Compile Include="Migrations\202201092005564_ InitialMigration.designer.cs">
       <DependentUpon>202201092005564_ InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202201092137556_ seed role.cs" />
+    <Compile Include="Migrations\202201092137556_ seed role.designer.cs">
+      <DependentUpon>202201092137556_ seed role.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -262,6 +266,15 @@
     <EmbeddedResource Include="Migrations\202201092005564_ InitialMigration.resx">
       <DependentUpon>202201092005564_ InitialMigration.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202201092137556_ seed role.resx">
+      <DependentUpon>202201092137556_ seed role.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{494b3377-7237-4b80-9093-09f89118ce40}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

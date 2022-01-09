@@ -13,3 +13,4 @@ D:\year3\RAD\Practice2\code\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
 D:\year3\RAD\Practice2\code\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.InitialMigration.resources
 D:\year3\RAD\Practice2\code\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
 D:\year3\RAD\Practice2\code\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.seeddata.resources
+D:\year3\RAD\Practice2\code\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.changecontext.resources

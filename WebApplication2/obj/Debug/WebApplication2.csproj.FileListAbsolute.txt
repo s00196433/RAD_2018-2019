@@ -108,3 +108,7 @@ D:\year3\RAD\Practice2\code\WebApplication2\obj\Debug\WebApplication2.dll
 D:\year3\RAD\Practice2\code\WebApplication2\obj\Debug\WebApplication2.pdb
 D:\year3\RAD\Practice2\code\WebApplication2\obj\Debug\WebApplication2.Migrations.InitialMigration.resources
 D:\year3\RAD\Practice2\code\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.cache
+D:\year3\RAD\Practice2\code\WebApplication2\bin\ClassLibrary1.dll
+D:\year3\RAD\Practice2\code\WebApplication2\bin\ClassLibrary1.pdb
+D:\year3\RAD\Practice2\code\WebApplication2\bin\ClassLibrary1.dll.config
+D:\year3\RAD\Practice2\code\WebApplication2\obj\Debug\WebApplication2.Migrations.seedrole.resources

@@ -66,6 +66,10 @@
     <Compile Include="Migrations\202201092058406_ seed data.designer.cs">
       <DependentUpon>202201092058406_ seed data.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202201092124363_change context.cs" />
+    <Compile Include="Migrations\202201092124363_change context.designer.cs">
+      <DependentUpon>202201092124363_change context.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -79,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202201092058406_ seed data.resx">
       <DependentUpon>202201092058406_ seed data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202201092124363_change context.resx">
+      <DependentUpon>202201092124363_change context.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
