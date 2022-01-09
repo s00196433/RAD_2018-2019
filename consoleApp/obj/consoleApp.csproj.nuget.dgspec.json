@@ -4,6 +4,16 @@
     "D:\\year3\\RAD\\Practice2\\code\\consoleApp\\consoleApp.csproj": {}
   },
   "projects": {
+    "D:\\year3\\RAD\\Practice2\\code\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\year3\\RAD\\Practice2\\code\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "D:\\year3\\RAD\\Practice2\\code\\ClassLibrary1\\ClassLibrary1.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "D:\\year3\\RAD\\Practice2\\code\\consoleApp\\consoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +37,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\year3\\RAD\\Practice2\\code\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "D:\\year3\\RAD\\Practice2\\code\\ClassLibrary1\\ClassLibrary1.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
